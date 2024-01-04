@@ -8,8 +8,8 @@ Follow these steps:
 1- Download ["virtual Serial com Driver by Eltima Sofware"](https://github.com/mealadmmb).  
 2- After installation you should make two virtual com ports.  
 3- After making two virtual comports connected together you should open both python files provided in this repository.  
-4- Define the serial port settings in both python files,You should specify first comport in the test_serial_plotter.py file and buadrates,.... and Define the serial port settings in the Serial_Plotter.py.  
-5- Test and enjoy.
+4- Define the serial port settings in both python files,You should specify first comport in the test_serial_plotter.py file and buadrates,.... and Define the serial port settings in the Serial_Plotter.py.    
+5- Test and enjoy. I mean, run both codes together.  
 
 
 
