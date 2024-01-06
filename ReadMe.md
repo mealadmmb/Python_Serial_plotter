@@ -12,7 +12,8 @@ Follow these steps:
 5- Test and enjoy. I mean, run both codes together.  
 
 
-
+## Hardware Section 
+the VHDL codes related to the online spectrum were added. this code takes FFT transform from the input signal and puts it on serial bus.
 
 
 
